@@ -21,8 +21,17 @@ The SMOTE Oversampling algorithm generated a model that has a 66% balanced accur
 ### Undersampling
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG)
 
-The SMOTE Oversampling algorithm generated a model that has a 68% balanced accuracy score, 99% precision score, and a 63% recall score.
+The Undersampling algorithm generated a model that has a 68% balanced accuracy score, 99% precision score, and a 63% recall score.
 ### Combination Sampling
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Combination_Sampling.PNG)
 
-The SMOTE Oversampling algorithm generated a model that has a 66% balanced accuracy score, 99% precision score, and a 63% recall score.
+The Combination algorithm generated a model that has a 68% balanced accuracy score, 99% precision score, and a 58% recall score.
+### Balanced Random Forest Classifier (BRFC)
+![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest.PNG)
+
+The BRFC algorithm generated a model that has a 79% balanced accuracy score, 99% precision score, and a 87% recall score.
+### Easy Ensemble AdaBoost Classifier
+![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost.PNG)
+
+The BRFC algorithm generated a model that has a 93% balanced accuracy score, 99% precision score, and a 87% recall score.
+

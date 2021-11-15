@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 ## Overview of the Analysis
-This project required me to use various supervised machine learning tools to evaluate the credit risk of a bank's customers. The goal was to figure out which of the 6 tools would work best for determining the credit risk of their customers, and if any of the aforementioned tools were viable options for the bank to use in the future. The 4 various sampling algorithms I used were:
+This project required me to use various supervised machine learning tools to evaluate the credit risk of a bank's customers. The goal was to figure out which of the 6 tools would work best for determining the credit risk of their customers, and if any of the aforementioned tools were viable options for the company to use in the future. The 4 various sampling algorithms I used were:
 - Naive Oversampling
 - SMOTE Oversampling
 - Undersampling

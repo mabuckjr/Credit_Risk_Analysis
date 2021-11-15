@@ -7,4 +7,7 @@ This project required me to use various supervised machine learning tools to eva
 - Combination Sampling (SMOTEENN)
 - Balanced Random Forest Classifier
 - Easy Ensemble AdaBoost Classifier
-The first two algorithms involved oversampling the "high risk" customer data to balance the testing variables. Then, I undersampled the "low risk" customer data, which basically is the opposite of the oversampling process, but yields a similar result by balancing the data. The Combination Sampling involves finding a middleground for both sets of training data, oversampling the "high risk" training set and undersampling the "low risk" training data.
+### Explanation of the different Algorithms
+The first two algorithms involved oversampling the "high risk" customer data to balance the testing variables. Naive Oversampling duplicates examples from the minority class to balance the machine learning process. SMOTE Oversampling differs from Random Sampling by creating new synthetic examples from the minority class that are similar to the rest of the class. Then, I undersampled the "low risk" customer data, which basically is the opposite of the oversampling process, but yields a similar result by balancing the data. The Combination Sampling involves finding a middleground for both sets of training data, oversampling the "high risk" training set and undersampling the "low risk" training data. The Balanced Random Forest Classifier tool randomly undersamples each bootstrap sample to balance it. Easy Ensemble AdaBoost ensemble uses a group of AdaBoost learners trained on different balanced bootstrap sample by random under-sampling.
+## Results
+### Naive Oversampling

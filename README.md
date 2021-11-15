@@ -33,5 +33,5 @@ The BRFC algorithm generated a model that has a 79% balanced accuracy score, 99%
 ### Easy Ensemble AdaBoost Classifier
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost.PNG)
 
-The BRFC algorithm generated a model that has a 93% balanced accuracy score, 99% precision score, and a 87% recall score.
-
+The Easy Ensemble AdaBoost algorithm generated a model that has a 93% balanced accuracy score, 99% precision score, and a 94% recall score.
+## Summary

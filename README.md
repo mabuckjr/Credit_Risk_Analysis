@@ -13,12 +13,16 @@ The first two algorithms involved oversampling the "high risk" customer data to 
 ### Naive Oversampling
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Naive_Oversampling.PNG)
 
-The Naive Random Oversampling algorithm generated a model that has a 65% balanced accuracy score, 99% precision score, and a 64% recall score.
+The Naive Random Oversampling algorithm generated a model that has a 67% balanced accuracy score, 99% precision score, and a 63% recall score.
 ### SMOTE Oversampling
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.PNG)
 
-The SMOTE Oversampling algorithm generated a model that has a 63% balanced accuracy score, 99% precision score, and a 64% recall score.
+The SMOTE Oversampling algorithm generated a model that has a 66% balanced accuracy score, 99% precision score, and a 69% recall score.
 ### Undersampling
 ![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG)
 
-The SMOTE Oversampling algorithm generated a model that has a 63% balanced accuracy score, 99% precision score, and a 64% recall score.
+The SMOTE Oversampling algorithm generated a model that has a 68% balanced accuracy score, 99% precision score, and a 63% recall score.
+### Combination Sampling
+![](https://github.com/mabuckjr/Credit_Risk_Analysis/blob/main/Resources/Combination_Sampling.PNG)
+
+The SMOTE Oversampling algorithm generated a model that has a 66% balanced accuracy score, 99% precision score, and a 63% recall score.
